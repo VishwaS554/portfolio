@@ -365,9 +365,9 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  border-radius: 3rem;
+  width: 40%;
+  height: 40%;
 }
 
 .project-title {
@@ -398,6 +398,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+
 }
 
 .contact-info-container {
